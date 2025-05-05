@@ -20,7 +20,7 @@ Welcome to my personal website! Here you can find:
 * A list of my [Publications](/publications/){: .btn--research}
 * A list of my invited and contributed [Talks](/talks/){: .btn--research}
 * Information about my [Outreach & Media](/outreach/){: .btn--research} activities
-* The latest verions of my [CV](/cv-mei/){: .btn--research}
+* The latest versions of my [CV](/cv-mei/){: .btn--research}
 
 My academic experience in short
 ------
