@@ -8,10 +8,10 @@ redirect_from:
 ---
 
 Hi! I'm an astrophysicist studying gamma-rays from the most powerful explosions in the Universe. 
-Currently, I am a PhD candidate at the [Gran Sasso Science Institute](https://www.gssi.it/) in L'Aquila, Italy. 
+
 
  <br/><img src='/images/gransasso.jpg'>
-_View of the Gran Sasso montains and the city of L'Aquila_
+_View of the Gran Sasso mountains and the city of L'Aquila_
 
 
 
@@ -25,7 +25,7 @@ Welcome to my personal website! Here you can find:
 My academic experience in short
 ------
 
-I started my PhD position in Astroparticle Physics at GSSI in 2020, where I joined the [Gravitational-wave group](https://wikiet.gssi.it/index.php/Main_Page) lead by Prof. Marica Branchesi and Prof. Jan Harms. In particular, I joined the division studying gamma-ray bursts, and I was supervised during my research by Dr. Gor Oganesyan, Prof. Marica Branchesi and Dr. Biswajit Banerjee. 
+I started my PhD position in Astroparticle Physics at [Gran Sasso Science Institute](https://www.gssi.it/) in L'Aquila (Italy) in 2020, where I joined the [Gravitational wave group](https://wikiet.gssi.it/index.php/Main_Page) lead by Prof. Marica Branchesi and Prof. Jan Harms. In particular, I joined the division studying gamma-ray bursts. During my research, I was supervised by Dr. Gor Oganesyan, Prof. Marica Branchesi and Dr. Biswajit Banerjee. I defended my thesis titled "_On the common properties across the gamma-ray burst population: discovering a standard behavior and unique events_" in June 2025.
 
 Previously, I got both my BSc and MSc degrees in Physics at the University of Rome Tor Vergata, and my diploma at Liceo Scientifico "E. Amaldi" in Rome.
 
