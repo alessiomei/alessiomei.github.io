@@ -7,7 +7,7 @@ redirect_from:
   - /research.html
 ---
 
-Since the beginning of my PhD, I started to investigate the nature of gamma-ray bursts (GRBs). They are bright flashes of gamma-rays coming from galaxies (_luckily_) far away. They are so bright that they were observed even at the dawn of the cosmos! What can possibly trigger such energetic sources remains a matter of debate. Clues on their so-called _progenitors_ arise from the duration of their main gammaray pulses, during the so-called **prompt emission**. 
+Since the beginning of my PhD, I started to investigate the nature of gamma-ray bursts (GRBs). They are bright flashes of gamma-rays coming from galaxies (_luckily_) far away. They are so bright that they were observed even at the dawn of the cosmos! What can possibly trigger such energetic sources remains a matter of debate. Clues on their so-called _progenitors_ arise from the duration of their main gamma-ray pulses, during the so-called _prompt emission_. 
 
 GRBs come in two flavours:
 * There are short GRBs (lasting less than two seconds) powered by the merger of two neutron stars in binary systems;
@@ -25,19 +25,19 @@ _Artistic impression of GRB 211211A. \\
 The nature of GRB progenitors
 ------
 
-Since the end of 2021, a new category of GRBs has been discovered. It includes long duration bursts powered by binary neutron star mergers, challenging the established duration-based classification scheme. For these new sources, the joint detection of a kilonova from the explosion site was a definitive smoking-gun of the previous merger of two neutron stars.
+At the end of 2021, a new category of GRBs has been discovered. It includes long duration bursts powered by binary neutron star mergers, challenging the established duration-based classification scheme. For these new sources, the joint detection of a kilonova from the explosion site was a definitive smoking-gun of the previous merger of two neutron stars.
 
 <br/><img src='/images/kilonova.jpg' style="width:85%; height=85%">\\
 _Artistic impression of the kilonova following GRB 170817A. \\
  Credits: NASA’s Goddard Space Flight Center._
 
-I worked on the characterization of the large flux of high energy gamma-rays observed by the LAT instrument on-board the [_Fermi_ satellite](https://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope) after almost one hour from the explosion of GRB 211211A, the first of this new category of GRBs. Although expected, this emission was too bright to match the one predicted by theoretical models. [In this work](https://www.nature.com/articles/s41586-022-05404-7) we report the discovery of an excess of gamma-rays, providing a novel interpretation for this extraordinary source. This late-time emission can be explained by a novel interaction between the light emitted by the kilonova and the jet associated with the GRB.
+I worked on the characterization of the large flux of high energy gamma-rays observed by the LAT instrument on-board the [_Fermi_ satellite](https://en.wikipedia.org/wiki/Fermi_Gamma-ray_Space_Telescope) after almost one hour from the explosion of GRB 211211A, the first of this new category of GRBs. Although expected, this emission was too bright to match the one predicted by theoretical models. [In this work](https://www.nature.com/articles/s41586-022-05404-7) we report the discovery of an excess of gamma-rays, providing a novel interpretation for this extraordinary source. This late-time emission can be explained by an unexpected interaction between the light emitted by the kilonova and the jet associated with the GRB.
 The new category of long merger-driven GRBs is strongly challenging our understanding of these cosmic sources, opening to new possible discoveries of these still mysterious explosions.
 
 The physical processes behind the prompt emission
 ------
 
-Despite being discovered in the '60s, GRBs are still not fully understood. The general picture involves the presence of some kind of _central engine_, formed from the remnants of the explosion. This material is accelerated to almost the speed of light, funneling it into a narrow cone of relativistic material called **jet**. State-of-the-art models predict that the emission site of the first light to be within the jet. However, the observations are not conclusive enough to prefer one scenario over the others. [In this work](https://doi.org/10.3847/1538-4357/aca091), we observed one of the most energetic bursts through a dataset spanning a large part of the electromagnetic spectrum. We inferred some constraints on physical features of the emission site, making a step forward in understanding the mechanisms behind GRBs. 
+Despite being discovered in the '60s, GRBs are still not fully understood. The general picture involves the presence of some kind of _central engine_, formed from the remnants of the explosion. This material is accelerated to almost the speed of light, funneling it into a narrow cone of relativistic material called _jet_. State-of-the-art models predict that the emission site of the first emitted light to be within the jet. However, the observations are not conclusive enough to prefer one scenario over the others. [In this work](https://doi.org/10.3847/1538-4357/aca091), we observed one of the most energetic bursts through a dataset spanning a large part of the electromagnetic spectrum. We inferred some constraints on physical features of the emission site, making a step forward in understanding the mechanisms behind GRBs. 
 
 A new common behavior in gamma-ray bursts
 ------
