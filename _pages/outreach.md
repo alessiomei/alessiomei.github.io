@@ -72,7 +72,10 @@ The publication of [my work](https://www.nature.com/articles/s41586-022-05404-7)
 
 * Here you can find my interviews for the [GSSI](https://www.gssi.it/communication/news-events/item/20826-sorprendenti-lampi-gamma-ad-alta-energia-dalla-fusione-di-due-stelle-di-neutroni), [INAF (Italian Astrophysics National Institute)](https://www.media.inaf.it/2022/12/07/gssi-inaf-grb-211211a/) and [NASA](https://www.nasa.gov/universe/nasa-missions-probe-game-changing-cosmic-explosion/) press releases. 
 * This discovery was also featured in the Italian daily newspaper [_La Repubblica_](https://www.repubblica.it/cronaca/2022/12/07/news/spazio_scoperti_lampi_gamma_ad_alta_energia_dalla_fusione_di_due_stelle_di_neutroni-377897469/?__vfz=medium%3Dsharebar&fbclid=PAQ0xDSwKEFwNleHRuA2FlbQIxMQABp-BRqZ6tQGD9jmu068Jd75mcQINhOnahRW4GVlcd_TFWwtIIxvunqFJygEgh_aem_i7-CvmYSI4zezffQnsMrIQ). 
-* My PhD advisors, Biswajit and Marica, and I appeared in a YouTube video for <q>Meet the Researchers</q>, a short series of videos made by GSSI to spread researches carried out in the institute (in italian). 
+
+* On the [IDeAS YouYube channel]{https://www.youtube.com/@ideas_1794} you can find the live stream of **_Scientzia in Bidda_** and **_Cuatru Cuartus de Scièntzia_** of summer 2025, where I hosted and performed the events (in Italian) :) 
+
+
 
 <html lang="it">
 <head>
@@ -82,8 +85,8 @@ The publication of [my work](https://www.nature.com/articles/s41586-022-05404-7)
 <body>
 
 <iframe width="560" height="315" 
-        src="https://www.youtube.com/embed/W5-r73_2c8U" 
-        title="YouTube video player" 
+        src="https://www.youtube.com/watch?v=bK0hKiZnuao&t=2638s" 
+        title="SCIÈNTZIA IN BIDDA ON THE ROAD @ CARBONIA" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>

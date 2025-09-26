@@ -10,9 +10,15 @@ redirect_from:
 Here there is a list of my publications, from the most recent one to the oldest. \\
 You can also find my articles on [Google Scholar](https://scholar.google.com/citations?user=mKpTrNoAAAAJ&hl=it&oi=ao). 
 
+0. <q>Observation of the spectral turnover in the afterglow emission of GRB 221009A</q>\\
+B. Banerjee, S. Macera, A. L. De Santis, **A. Mei**, J. Tissino, G. Oganesyan, D. Frederiks, A. L.
+Lysenko, D. S. Svinkin, A. Tsvetkova, M. Branchesi;\\
+Astronomy&Astrophysics, 2025: [DOI:10.1051/0004-6361/202554813](https://www.aanda.org/articles/aa/full_html/2025/09/aa54813-25/aa54813-25.html)
+
+
 0. <q>Gamma-ray burst prompt emission spectra at high energies</q>\\
 S. Macera, B. Banerjee, **A. Mei**, P. Tiwari, G. Oganesyan, M. Branchesi;\\
-arXiv preprint, 2025: [arXiv:2501.10507 \[astro-ph.HE\]](https://arxiv.org/abs/2501.10507)
+Astronomy&Astrophysics, 2025: [DOI:10.1051/0004-6361/202553801](https://www.aanda.org/articles/aa/full_html/2025/08/aa53801-25/aa53801-25.html)
 
 0. <q>Gamma-ray burst spectral-luminosity correlations in the synchrotron scenario</q>\\
 **A. Mei**, G. Oganesyan, S. Macera;\\
@@ -24,10 +30,6 @@ Macera, M. Branchesi, P. G. Jonker, A. J. Levan, D. B. Malesani, K. B. Mulrey, A
 Celotti, and G. Ghisellini;\\
 Science, 2025: [DOI:10.1126/science.adj3638](https://www.science.org/doi/10.1126/science.adj3638)
 
-0. <q>Camelidae on BOAT: observation of a second spectral component in GRB 221009A</q>\\
-B. Banerjee, S. Macera, A. L. De Santis, **A. Mei**, J. Tissino, G. Oganesyan, D. Frederiks, A. L.
-Lysenko, D. S. Svinkin, A. Tsvetkova, M. Branchesi;\\
-arXiv preprint, 2025: [arXiv:2405.15855 [astro-ph.HE]](https://arxiv.org/abs/2405.15855)
 
 0. <q>Neutrino search from gamma-ray bursts during the prompt and X-ray afterglow phases using 10
 years of IceCube public data</q>\\
